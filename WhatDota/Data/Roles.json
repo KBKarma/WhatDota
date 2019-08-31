@@ -1,0 +1,28 @@
+{
+  "Roles": [
+    {
+      "Id": 0,
+      "Name": "Mid"
+    },
+    {
+      "Id": 1,
+      "Name": "Carry"
+    },
+    {
+      "Id": 2,
+      "Name": "Jungle"
+    },
+    {
+      "Id": 3,
+      "Name": "Support"
+    },
+    {
+      "Id": 4,
+      "Name": "Roaming"
+    },
+    {
+      "Id": 5,
+      "Name": "Offlane"
+    }
+  ]
+}
